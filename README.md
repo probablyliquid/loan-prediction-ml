@@ -1,4 +1,4 @@
-# Loan Prediciton Neural Network
+# Loan Prediction Neural Network
 A simple 3 layered neural network trained on a [Kaggle dataset](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction) by [Bhavik Jikadara](https://www.kaggle.com/bhavikjikadara).
 - This is a simple solution averaging at around 67.74% accuracy.
 - The original dataset was modified since I do not understand how to work with labels (as of the day I'm writing this)
