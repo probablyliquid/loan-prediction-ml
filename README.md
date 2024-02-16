@@ -16,7 +16,9 @@ A simple 3 layered neural network trained on a [Kaggle dataset](https://www.kagg
 1. Initialise Jupyter Notebook (or) Google Colab (for Colab, you need to connect to a runtime server)
 2. Make sure that your runtime server has Python3 and the following dependencies installed: `tensorflow`, `pandas`, `numpy,`, `matplotlib`, `sklearn` 
 3. Upload all the files provided (you may skip the main.py file)
-4. Run the `loan_predictor.ipynb` file, cell-by-cell.
+4. Make sure to set the correct path of the `loan_data.csv` in `loan_predictor.ipynb`  at `dataset = pd.read_csv(<correct_filepath>)`
+5. Run the `loan_predictor.ipynb` file, cell-by-cell.
+
 
 Have a great day:)
 - Priyanshu
