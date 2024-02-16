@@ -21,4 +21,4 @@ A simple 3 layered neural network trained on a [Kaggle dataset](https://www.kagg
 
 
 Have a great day:)
-- Priyanshu
+##### - Priyanshu
